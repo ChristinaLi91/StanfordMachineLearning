@@ -25,7 +25,7 @@
       - Error analysis
       - Ceiling analysis
 
-## Programing exercises for Stanford Machine Learning Course:
+## Programing Exercises for Stanford Machine Learning Course:
   - Ex1 Linear Regression
   - Ex2 Logistic Regression
   - Ex3 Multi-class Classification Neural Networks
