@@ -1,23 +1,23 @@
-#### Standford MachineLearning Course by Andrew Ng
+# Standford MachineLearning Course by Andrew Ng
 
-### Main Topics of the Course:
+## Main Topics of the Course:
 
-## 1. Supervised Learning
+### 1. Supervised Learning
   - Linear regression
   - Logistic regression
   - Neural networks
   - SVMs
   
-## 2. Unsupervised Learning
+### 2. Unsupervised Learning
   - K-means
   - PCA
   - Anomaly detection
   
-## 3. Special Applications/Special Topics
+### 3. Special Applications/Special Topics
   - Recommender systems
   - Large scale machine learning
   
-## 4. Advice on Building a Machine Learning System
+### 4. Advice on Building a Machine Learning System
   - Bias/variance, regularization
   - Decideing what to work on next
       a. Evaluation of learning algorithms
@@ -25,7 +25,7 @@
       c. Error analysis
       d. Ceiling analysis
 
-### Programing exercises for Stanford Machine Learning Course:
+## Programing exercises for Stanford Machine Learning Course:
 
     1.Ex1 - Linear Regression
     2.Ex2 - Logistic Regression
