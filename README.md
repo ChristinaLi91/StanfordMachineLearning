@@ -1,4 +1,4 @@
-#Standford MachineLearning Course by Andrew Ng
+# Standford MachineLearning Course by Andrew Ng
 
 ## Main Topics of the Course:
 
@@ -27,12 +27,12 @@
 
 ## Programing exercises for Stanford Machine Learning Course:
 
-    - Ex1 - Linear Regression
-    - Ex2 - Logistic Regression
-    - Ex3 - Multi-class Classification Neural Networks
-    - Ex4 - Neural Networks Learning
-    - Ex5 - Regularized Linear Regression and Bias v.s. Variance
-    - Ex6 - Support Vector Machines
-    - Ex7 - K-Means Clustering and PCA
-    - Ex8 - Anomaly Detection and Recommender Systems
+    - Ex1 Linear Regression
+    - Ex2 Logistic Regression
+    - Ex3 Multi-class Classification Neural Networks
+    - Ex4 Neural Networks Learning
+    - Ex5 Regularized Linear Regression and Bias v.s. Variance
+    - Ex6 Support Vector Machines
+    - Ex7 K-Means Clustering and PCA
+    - Ex8 Anomaly Detection and Recommender Systems
 
